@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="yoya.ui.autotest">    
+    <test name="longinTest" verbose="5">
+        <classes>
+            <class name="com.yoya.test.LoginPageTest"/>  
+        </classes>
+    </test>  
+</suite>

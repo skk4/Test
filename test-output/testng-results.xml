@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29662" started-at="2017-01-13T07:29:01Z" finished-at="2017-01-13T07:29:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29662" started-at="2017-01-13T07:29:01Z" finished-at="2017-01-13T07:29:30Z">
+      <class name="com.yoya.test.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.yoya.test.LoginPageTest@c87b21]" name="setUp" is-config="true" duration-ms="2795" started-at="2017-01-13T15:29:01Z" finished-at="2017-01-13T15:29:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testopen()[pri:0, instance:com.yoya.test.LoginPageTest@c87b21]" name="testopen" duration-ms="9841" started-at="2017-01-13T15:29:03Z" finished-at="2017-01-13T15:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testopen -->
+        <test-method status="PASS" signature="testsingin()[pri:0, instance:com.yoya.test.LoginPageTest@c87b21]" name="testsingin" duration-ms="3131" started-at="2017-01-13T15:29:13Z" finished-at="2017-01-13T15:29:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsingin -->
+        <test-method status="PASS" signature="testusrlongin()[pri:0, instance:com.yoya.test.LoginPageTest@c87b21]" name="testusrlongin" duration-ms="13816" started-at="2017-01-13T15:29:16Z" finished-at="2017-01-13T15:29:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testusrlongin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.yoya.test.LoginPageTest@c87b21]" name="tearDown" is-config="true" duration-ms="64" started-at="2017-01-13T15:29:30Z" finished-at="2017-01-13T15:29:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.yoya.test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
